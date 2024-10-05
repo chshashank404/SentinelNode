@@ -79,51 +79,6 @@ Blockchain security thrives on transparency and decentralized contributions. By 
 
 ---
 
-## **Installation**
-### Prerequisites:
-- Python 3.x
-- Git
-
-### Step-by-Step Guide:
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/sentinelnode.git
-   cd sentinelnode
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set Up**:
-   - Configure the blockchain protocol you are analyzing (e.g., Algorand).
-   - Set up node access (if needed) using API keys or relevant credentials.
-
----
-
-## **Usage**
-Once installed, each sub-project can be launched independently:
-
-### **NodeGuard** (Security and Monitoring):
-```bash
-python nodeguard.py --network=algorand
-```
-
-### **ForensiNode** (Forensic Analysis and Investigation):
-```bash
-python forensinode.py --log-dir=/path/to/logs
-```
-
-### **ConsensusGuard** (Consensus Protection and Trust):
-```bash
-python consensusguard.py --consensus-type=bft --network=algorand
-```
-
-You can modify the configuration files to fit your specific network or consensus type.
-
----
-
 ## **Contributing**
 We welcome contributions from developers, researchers, and blockchain enthusiasts. To contribute:
 1. Fork the repository.
