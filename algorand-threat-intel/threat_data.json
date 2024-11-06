@@ -1,0 +1,51 @@
+{
+    "malicious_wallets": [
+      {
+        "address": "ALGO1234EXAMPLExyz1234ALGO",
+        "network": "Algorand",
+        "category": "Phishing",
+        "description": "Used in phishing attempts to gather private keys.",
+        "last_seen": "2024-11-01"
+      },
+      {
+        "address": "BTC5678EXAMPLEabcd5678BTC",
+        "network": "Bitcoin",
+        "category": "Fraud",
+        "description": "Associated with known fraudulent transactions.",
+        "last_seen": "2024-11-04"
+      }
+    ],
+    "suspicious_domains": [
+      {
+        "domain": "example-phishing.com",
+        "category": "Phishing",
+        "description": "Pretends to be an official wallet provider.",
+        "last_seen": "2024-10-29"
+      }
+    ],
+    "phishing_sites": [
+      {
+        "url": "https://scam-site.io",
+        "category": "Phishing",
+        "description": "Fake exchange platform targeting Algorand users.",
+        "last_seen": "2024-10-28"
+      }
+    ],
+    "compromised_smart_contracts": [
+      {
+        "contract_address": "ALGO_CONTRACT_ABC123xyz456",
+        "network": "Algorand",
+        "category": "Exploited",
+        "description": "Contract exploited by attackers to drain funds.",
+        "last_seen": "2024-10-20"
+      }
+    ],
+    "malicious_ips": [
+      {
+        "ip_address": "192.168.1.100",
+        "category": "Malware Distribution",
+        "description": "Associated with malware distribution.",
+        "last_seen": "2024-11-03"
+      }
+    ]
+  }
