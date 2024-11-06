@@ -7,13 +7,6 @@
         "description": "Used in phishing attempts to gather private keys.",
         "last_seen": "2024-11-01"
       },
-      {
-        "address": "BTC5678EXAMPLEabcd5678BTC",
-        "network": "Bitcoin",
-        "category": "Fraud",
-        "description": "Associated with known fraudulent transactions.",
-        "last_seen": "2024-11-04"
-      }
     ],
     "suspicious_domains": [
       {
