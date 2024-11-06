@@ -87,8 +87,6 @@ The **Algorand Threat Intelligence and Anomaly Detection Module** is a collabora
 
 4. **Run Modules Individually or Collectively**: You can run each module individually by navigating to the module directory and executing the relevant Python scripts, or integrate them into a larger monitoring system.
 
-5. **Contribute to the Project**: SentinelNode is open source, and contributions are welcome! See the `CONTRIBUTING.md` file for information on how to contribute new features, bug fixes, and enhancements.
-
 ---
 
 ## Future Goals
