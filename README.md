@@ -19,11 +19,9 @@ Welcome to **SentinelNode**, an open-source framework for monitoring, analyzing,
    - [ConsensusGuard](#consensusguard)
 3. [Why Open Source?](#why-open-source)
 4. [Features](#features)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8.  [Roadmap](#roadmap)
-9.   [Support](#support)
+5. [Contributing](#contributing)
+6.  [Roadmap](#roadmap)
+7.   [Support](#support)
 
 ---
 
