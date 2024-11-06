@@ -4,7 +4,7 @@ import requests
 import json
 
 # GitHub repository URL for the raw JSON file (replace with your actual repository path)
-GITHUB_REPO_URL = "https://github.com/chshashank404/SentinelNode/raw/refs/heads/main/algorand-threat-intel/threat_data.json"
+GITHUB_REPO_URL = "https://raw.githubusercontent.com/chshashank404/SentinelNode/refs/heads/main/algorand-threat-intel/threat_data.json"
 
 # Local path to store the downloaded threat data
 LOCAL_DATA_PATH = "./local_threat_data.json"
