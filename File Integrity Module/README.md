@@ -23,7 +23,8 @@ This module includes:
 
 Start by opening a terminal session in the `algokit_sandbox_algod` Docker container.
 
-![Docker_algod](https://github.com/user-attachments/assets/e3470eb9-552f-46d5-953b-27ab603ff444)
+![Docker_algod_identifier](https://github.com/user-attachments/assets/70fd26ac-a481-4197-a06d-f20d24a96bce)
+
 
 
 ### 2. Install Python3 and Set Up Virtual Environment
